@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Level_One\GitHub_Lecture\secondPractice\bin\Debug\net6.0\secondPractice.exe
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Level_One\GitHub_Lecture\secondPractice\bin\Debug\net6.0\secondPractice.deps.json
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Level_One\GitHub_Lecture\secondPractice\bin\Debug\net6.0\secondPractice.runtimeconfig.json
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Level_One\GitHub_Lecture\secondPractice\bin\Debug\net6.0\secondPractice.dll
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Level_One\GitHub_Lecture\secondPractice\bin\Debug\net6.0\secondPractice.pdb
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Level_One\GitHub_Lecture\secondPractice\obj\Debug\net6.0\secondPractice.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Level_One\GitHub_Lecture\secondPractice\obj\Debug\net6.0\secondPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Level_One\GitHub_Lecture\secondPractice\obj\Debug\net6.0\secondPractice.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Level_One\GitHub_Lecture\secondPractice\obj\Debug\net6.0\secondPractice.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Level_One\GitHub_Lecture\secondPractice\obj\Debug\net6.0\secondPractice.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Level_One\GitHub_Lecture\secondPractice\obj\Debug\net6.0\secondPractice.dll
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Level_One\GitHub_Lecture\secondPractice\obj\Debug\net6.0\refint\secondPractice.dll
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Level_One\GitHub_Lecture\secondPractice\obj\Debug\net6.0\secondPractice.pdb
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Level_One\GitHub_Lecture\secondPractice\obj\Debug\net6.0\secondPractice.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Level_One\GitHub_Lecture\secondPractice\obj\Debug\net6.0\ref\secondPractice.dll
